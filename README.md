@@ -6,7 +6,6 @@
   - [Table of Contents](#table-of-contents)
   - [Graph](#graph)
   - [Algorithms](#algorithms)
-  - [How to Use](#how-to-use)
 
 ## Graph
 
